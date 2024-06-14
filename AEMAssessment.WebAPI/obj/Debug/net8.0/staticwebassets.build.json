@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nR+wzjkJ+on9xeSjaRPLLXywBZXAa0i2vXsdYlOfN3Q=",
+  "Source": "AEMAssessment.WebAPI",
+  "BasePath": "_content/AEMAssessment.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

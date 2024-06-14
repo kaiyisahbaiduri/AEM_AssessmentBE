@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AEMAssessment.WebAPI.Controllers.SyncDataController",
+    "Method": "Login",
+    "RelativePath": "api/SyncData/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "AEMAssessment.WebAPI.Model.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
